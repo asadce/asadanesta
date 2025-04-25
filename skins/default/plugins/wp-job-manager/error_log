@@ -1,0 +1,4 @@
+[09-Apr-2025 23:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/skins/default/plugins/wp-job-manager/wp-job-manager-style.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/skins/default/plugins/wp-job-manager/wp-job-manager-style.php on line 4

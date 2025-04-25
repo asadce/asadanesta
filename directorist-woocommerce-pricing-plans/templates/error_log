@@ -1,0 +1,8 @@
+[06-Apr-2025 03:19:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function selected_plan_id() in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/directorist-woocommerce-pricing-plans/templates/listing_type.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/directorist-woocommerce-pricing-plans/templates/listing_type.php on line 2
+[06-Apr-2025 18:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/directorist-woocommerce-pricing-plans/templates/no-plan-assigned.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/directorist-woocommerce-pricing-plans/templates/no-plan-assigned.php on line 10

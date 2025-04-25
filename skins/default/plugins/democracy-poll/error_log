@@ -1,0 +1,4 @@
+[22-Apr-2025 13:11:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/skins/default/plugins/democracy-poll/democracy-poll-style.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/skins/default/plugins/democracy-poll/democracy-poll-style.php on line 4

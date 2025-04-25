@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,0BAAoB;EACnB,wBAAwB;EACxB;iEACgE;IAC/D,MAAM,EAAE,KAAK;;;AAKf,yBAAoB;EACnB,wBAAwB;EACxB,wDAAyD;IACxD,WAAW,EAAE,GAAG;;;EAEjB;iEACgE;IAC/D,MAAM,EAAE,KAAK;;;EAEd;yFACwF;IACvF,WAAW,EAAE,MAAM;;;AAKrB,yBAAoB;EAChB,wBAAwB;EAC3B,wDAAyD;IACxD,WAAW,EAAE,GAAG;;;EAEjB,6DAA8D;IAC7D,UAAU,EAAE,GAAG;ICgYf,iBAAgB,ED/XG,IAAI;IC+XvB,aAAgB,ED/XG,IAAI;ICiYxB,SAAS,EDjYW,IAAI;;;EAExB,mEAAoE;IACnE,UAAU,EAAE,KAAK;ICqbhB,uBAAsB,EDpbO,UAAU;ICkbvC,aAAa,EAAqB,KAAK;IAKzC,eAAe,EDvbgB,UAAU",
+"sources": ["style-2-responsive.scss","../../../../css/_mixins.scss"],
+"names": [],
+"file": "style-2-responsive.css"
+}

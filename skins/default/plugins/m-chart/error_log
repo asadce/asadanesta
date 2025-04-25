@@ -1,0 +1,4 @@
+[05-Apr-2025 13:03:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/skins/default/plugins/m-chart/m-chart.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/thisweekstjames/public_html/wp-content/themes/anesta-child/skins/default/plugins/m-chart/m-chart.php on line 23

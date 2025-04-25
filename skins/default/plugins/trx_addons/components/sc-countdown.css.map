@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,eAAe;AACf,+CAAgD;EAC/C,KAAK,EAAE,+BAA+B;EACtC,YAAY,EAAE,6BAA6B;EAC3C,gBAAgB,EAAE,4BAA4B;;;AAE/C,yCAA0C;EACzC,KAAK,EAAE,6BAA6B;EACpC,YAAY,EAAE,iCAAiC;EAC/C,gBAAgB,EAAE,iCAAiC",
+"sources": ["sc-countdown.scss"],
+"names": [],
+"file": "sc-countdown.css"
+}
